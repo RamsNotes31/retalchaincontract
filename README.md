@@ -1,2 +1,2 @@
 # retalchaincontract
-Retain Industry Smart Contract
+Retail Industry Smart Contract
